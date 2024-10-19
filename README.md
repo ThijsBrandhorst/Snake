@@ -12,7 +12,7 @@ Welcome to Snake! This is a classic game where you control a snake and try to ea
 
 ### Installation
 
-    - Clone the repository: `git clone https://github.com/ThijsvanDien/Snake.git`.
+    - Clone the repository.
     - Open the project in your IDE.
     - Run the project.
 
